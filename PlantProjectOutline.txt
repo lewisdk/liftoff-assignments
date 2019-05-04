@@ -1,0 +1,26 @@
+Overview
+*This project is motivated by the need to have a way to keep track of how to care for different  types of plants which have different light, water, and general care requirements. I am in a couple of plant forums, and have noticed that people, myself included, are not always sure how to care for the plants they have bought, or have trouble keeping track of how often they need water, repotting, etc, so I wanted to create an app to keep track of these things.
+
+Features
+
+* Plant Entry: User would be able to enter the types of plants they have.
+
+* Water Schedule: Ability for user to schedule when and how much to water each plant with a reminder.
+
+* Care instructions: a description of what soil conditions and sun levels each plant needs.
+
+* Location Based Plant Recommendations: a service which provides recommendations for plants which thrive in the local climate.
+
+*Companion Plant Recommendations
+
+Technologies:
+* Spring Boot
+* Java
+* MYSQL
+* Java
+
+What I'll have to Learn:
+*I will have to learn how to get information from the existing internet to bring in data such as care instructions and location based recommendations. I will also need to learn how to create notifications to send them to the User.
+
+Pivotal Tracker Link:
+https://www.pivotaltracker.com/n/projects/2345077
